@@ -7,3 +7,7 @@ This is a rogue-like game, instead of the player completely starting over, in th
 This game was a school project that I had a week and a half to complete. Its the first game I've ever developed. The game was developed in Unity using C# scripts.
 
 Theres animations I want to add and make the game even more fluid. 
+
+Assets of the game: Platforms, Abu (Goat), Mini Crocs (enemy): 
+![image](https://user-images.githubusercontent.com/43862089/192876535-3d40f46c-9223-4419-93db-5790474161fe.png)
+
