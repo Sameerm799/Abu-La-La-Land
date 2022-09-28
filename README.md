@@ -11,3 +11,7 @@ Theres animations I want to add and make the game even more fluid.
 Assets of the game: Platforms, Abu (Goat), Mini Crocs (enemy): 
 ![image](https://user-images.githubusercontent.com/43862089/192876535-3d40f46c-9223-4419-93db-5790474161fe.png)
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/43862089/192876695-4a1264e5-b93a-46ca-99c2-266bd0133d4c.png)
+The yellow dot is the cast-point of the detection system. If the player is in the range of the enemy within the cast-point, the enemy will change state to attack. 
