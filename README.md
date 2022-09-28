@@ -18,7 +18,7 @@ Assets of the game: Platforms, Abu (Goat), Mini Crocs (enemy):
 The yellow dot is the cast-point of the detection system. If the player is in the range of the enemy within the cast-point, the enemy will change state to attack. 
 
 
-![image](https://user-images.githubusercontent.com/43862089/192877890-4d8279d0-47f8-4a45-b764-e8742e67e90a.png)
+![image](https://user-images.githubusercontent.com/43862089/192878341-afe95e12-3dbd-4696-9e91-831428a91c21.png)
 
 
 ![image](https://user-images.githubusercontent.com/43862089/192877930-2bdfccc0-5001-4435-b321-5e81e6e1ab95.png)
